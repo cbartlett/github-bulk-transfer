@@ -1,4 +1,4 @@
-# Github Bulk Transfer! [![License][license-image]][license-url]
+# GitHub Bulk Transfer! [![License][license-image]][license-url]
 
 > Simple CLI utility to trigger bulk transfers of github repos through a headless browser
 
@@ -37,7 +37,7 @@ $ node index.js --old ahmadnassri --new ahmadnassri-archive --email name@domain.
 ---
 > :copyright: [www.ahmadnassri.com](https://www.ahmadnassri.com/)  · 
 > License: [ISC][license-url]  · 
-> Github: [@ahmadnassri](https://github.com/ahmadnassri)  · 
+> GitHub: [@ahmadnassri](https://github.com/ahmadnassri)  · 
 > Twitter: [@ahmadnassri](https://twitter.com/ahmadnassri)
 
 [license-url]: http://choosealicense.com/licenses/isc/
