@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "name": "github-bulk-transfer",
+  "description": "Simple CLI utility to trigger bulk transfers of github repos through a headless browser",
+  "author": "Ahmad Nassri <ahmad@ahmadnassri.com> (https://www.ahmadnassri.com/)",
+  "homepage": "https://github.com/ahmadnassri/github-bulk-transfer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadnassri/github-bulk-transfer.git"
+  },
+  "license": "ISC",
+  "bin": "index.js",
+  "keywords": [
+    "github",
+    "transfer"
+  ],
+  "engines": {
+    "node": ">=7"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmadnassri/github-bulk-transfer/issues"
+  },
+  "dependencies": {
+    "puppeteer": "^0.10.1",
+    "yargs": "^9.0.1"
+  }
+}
