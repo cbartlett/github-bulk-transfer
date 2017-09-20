@@ -1,5 +1,7 @@
 # Github Bulk Transfer! [![License][license-image]][license-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadnassri/github-bulk-transfer.svg)](https://greenkeeper.io/)
+
 > Simple CLI utility to trigger bulk transfers of github repos through a headless browser
 
 ## Usage
