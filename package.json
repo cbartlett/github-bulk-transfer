@@ -22,7 +22,7 @@
     "url": "https://github.com/ahmadnassri/github-bulk-transfer/issues"
   },
   "dependencies": {
-    "puppeteer": "^0.10.1",
+    "puppeteer": "^1.0.0",
     "yargs": "^9.0.1"
   }
 }
